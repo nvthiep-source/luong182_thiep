@@ -1,0 +1,6 @@
+{
+  "name": "Tính Lương Tham Khảo Giáo Viên",
+  "description": "Ứng dụng tính lương tham khảo cho giáo viên dựa trên Nghị định 182/2026/NĐ-CP phát triển bởi Thầy Nguyễn Văn Thiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
